@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Origin"
+title:  "The origin"
 date:   2018-04-08 12:23:41 +0800
 categories: jekyll update
 ---
